@@ -13,7 +13,7 @@ in Eu³⁺-doped GdScO₃ single crystals, comparing two crystal samples
 
 ## Live Interactive Plot
 
-👉 [Open Interactive PL Viewer](https://shadimirmohammadi-collab.github.io/gso-pl-analysis/pl_interactive.html)
+👉 [Open Interactive PL Viewer](file:///Users/shadi/Library/CloudStorage/Box-Box/Berardi/GSO/PL/3-6-26/PL_Amazon%20and%20266.6%20Bharat.html)
 
 No installation needed — runs directly in your browser.
 

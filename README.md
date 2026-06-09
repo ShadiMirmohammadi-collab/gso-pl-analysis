@@ -8,7 +8,7 @@ in Eu³⁺-doped GdScO₃ single crystals, comparing two crystal samples
 
 | File | Description |
 |---|---|
-| `Amazon_vs_Bharat_PL.html` | Interactive Plotly visualization — open in any browser |
+| `Amazon vs Bharat_PL.html` | Interactive Plotly visualization — open in any browser |
 | `pl_analysis.py` | Python script for stacked PL plots with draggable excitation/emission lines |
 
 ## Live Interactive Plot
